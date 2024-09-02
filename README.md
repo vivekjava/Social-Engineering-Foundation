@@ -1,5 +1,5 @@
 # Social-Engineering-Foundation
-We would love to solve social problems with smart engineering ideas. (Roads, Traffic .. etc )
+We would love to address social problems with innovative engineering solutions (such as roads, traffic, etc.).
 
 ## Our Objective : 
 
