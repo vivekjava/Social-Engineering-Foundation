@@ -54,7 +54,3 @@ By participating in [Your Nonprofit Engineering Foundation Name], you acknowledg
 This Code of Conduct will be reviewed annually and updated as necessary to reflect changes in laws, regulations, and organizational needs.
 
 **Date: 02/Sep/2024 IST**
-
----
-
-Feel free to adjust the specific sections and content to better fit the values, mission, and operational specifics of your foundation.
